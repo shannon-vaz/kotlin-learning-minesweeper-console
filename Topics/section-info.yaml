@@ -1,0 +1,35 @@
+content:
+- Boolean and logical operations
+- Standard input
+- Type conversion
+- Values and variables
+- Reading data with a readLine
+- Integers in action
+- Relational operators
+- String basics
+- String templates
+- If expression
+- Repeating blocks
+- Characters
+- Ranges
+- For loop and ranges
+- Introduction to MutableList
+- Work with MutableLists
+- For loop and lists
+- Multi-dimensional list
+- Random
+- Declaring functions
+- Declaring classes
+- When expression
+- Functional decomposition
+- Default arguments
+- Named arguments
+- Constructors
+- Member functions
+- Properties accessors
+- Extension functions
+- While loops
+- Secondary constructor
+- Nested and inner classes
+- Object declarations
+- Enum

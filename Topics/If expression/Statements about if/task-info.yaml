@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: All expression style <code>if</code> branches must return the same type.
+- text: Expression style <code>if</code> must have <code>else</code> branch.
+- text: The <code>if-else-if</code> branch must end with an <code>else</code> branch.
+- text: We can use <code>if-else-if-else</code> branch as an expression.
+- text: We can not nest non expressional style <code>if</code> inside expressional
+    style one.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5963#comment
+status: Failed
+feedback:
+  message: Answer choices will be shuffled next time.
+  time: Sun, 09 Jan 2022 12:47:18 UTC
+record: -1
+selected_options:
+- 1
+- 2
+- 3
